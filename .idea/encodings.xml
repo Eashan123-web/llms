@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/api-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/config-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/discovery-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/exam-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/faculty-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Learning-management-system-main/backend/subject-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

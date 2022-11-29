@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Learning-management-system-main.iml" filepath="$PROJECT_DIR$/.idea/Learning-management-system-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/api-gateway/api-gateway.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/api-gateway/api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/auth-service/auth-service.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/auth-service/auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/config-server/config-server.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/exam-service/exam-service.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/exam-service/exam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/faculty-service/faculty-service.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/faculty-service/faculty-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Learning-management-system-main/backend/subject-service/subject-service.iml" filepath="$PROJECT_DIR$/Learning-management-system-main/backend/subject-service/subject-service.iml" />
+    </modules>
+  </component>
+</project>

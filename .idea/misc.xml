@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/auth-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/exam-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/faculty-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/subject-service/pom.xml" />
+        <option value="$PROJECT_DIR$/Learning-management-system-main/backend/discovery-server/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" default="true" project-jdk-name="18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>
